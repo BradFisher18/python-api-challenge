@@ -1,6 +1,6 @@
 # python-api-challenge
 ## Summary
-This challenge is aimed as utilising API platforms, such as citipy, OpenWeatherMap, and Geoapify, to create a code to generate a list of cities, their corresponding weather conditions and hotels in the area.
+This challenge is aimed as utilising API platforms, such as OpenWeatherMap and Geoapify, to create a code to generate a list of cities, their corresponding weather conditions and hotels in the area.
 ## Installation and Running
 For this code to run successfully, python is required to be installed along with the pandas tool library and either Jupyter lab or Jupyter notebook, and citipy. One method to install these programs is to download Anaconda - link below. In addition, an API Key is required for OpenWeatherMap and Geoapify. To obtain API keys, regristration is required with the links to these platforms below.
 Once all this has been completed, open the file within Jupyter, ensure that the input files are directed correctly and API keys have been referenced, and run!
